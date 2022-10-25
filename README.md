@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew; I also go by @Phobia and @Phobes
-- 👀 I’m interested in Cyber Security, Boxing/MMA and video games
+- 👀 I’m interested in Cyber Security, Boxing/MMA, fitness, and video games
 - 🌱 I’m currently learning Cloud Services (Azure, AWS, etc), Pentesting, and virtualization (VMWare, WSL, etc)
 - 💞️ I’m looking to collaborate on Security research, CTFs, Bug programs
 - 📫 How to reach me matthew.taylor8542@gmail.com

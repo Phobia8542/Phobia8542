@@ -5,11 +5,18 @@
 - 📫 How to reach me matthew.taylor8542@gmail.com
 
 Currently working on:
+<br/>
 Microsoft Azure Security Technologies - AZ-500 - https://learn.microsoft.com/en-us/certifications/exams/az-500
-XSS Survival Guide - XSSrat - Udemy - https://www.udemy.com/course/xss-survival-guide/
+<br/>
+Udemy:
+<br/>
+https://www.udemy.com/course/xss-survival-guide/
 
 Remaining courses:
+<br/>
 Microsoft Certified: Azure Solutions Architect Expert - https://learn.microsoft.com/en-ca/certifications/exams/az-305
+
+<br/>
 
 Track my Azure cloud certifcation roadmap - https://learn.microsoft.com/en-us/users/javintaylor-7172/
 

@@ -28,8 +28,6 @@ https://www.udemy.com/course/pentesting-the-ultimate-guide/
 \
 https://www.udemy.com/course/uncle-rats-bug-bounty-guide/
 \
-https://www.udemy.com/course/uncle-rats-bug-bounty-guide/
-\
 https://www.udemy.com/course/uncle-rats-api-security-testing-guide/
 \
 https://www.udemy.com/share/107EMq3@lo6Q4M_hErzGz9iMQSVayt2wsG-nVpKmWyjfTl-LqD1ovwagrnLEmeXDK8VDZOo3xQ==/

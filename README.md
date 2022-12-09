@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on Security research, CTFs, Bug programs
 - 📫 How to reach me matthew.taylor8542@gmail.com
 
-Currently working on: Not in order listed ** - priority
+Currently working on: Not in order listed 
 \
-** Microsoft Azure Security Technologies - AZ-500 - https://learn.microsoft.com/en-us/certifications/exams/az-500
+**Microsoft Azure Security Technologies - AZ-500 - https://learn.microsoft.com/en-us/certifications/exams/az-500**
 \
 Udemy:
 \
@@ -41,6 +41,23 @@ https://www.udemy.com/course/complete-python-bootcamp/
 https://www.udemy.com/course/ethical-hacking-guide-a-z/
 \
 https://www.udemy.com/course/android-bug-bounty-hunting-hunt-like-a-rat/learn/lecture/27385264?start=0#overview
+\
+TCM Security:
+\
+https://academy.tcm-sec.com/courses/enrolled/1152300](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
+\
+https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
+\
+https://academy.tcm-sec.com/p/linux-privilege-escalation
+\
+https://academy.tcm-sec.com/p/osint-fundamentals
+\
+https://academy.tcm-sec.com/p/external-pentest-playbook
+\
+https://academy.tcm-sec.com/p/linux-101
+\
+https://academy.tcm-sec.com/p/practical-malware-analysis-triage
+
 
 
 \

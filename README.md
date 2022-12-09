@@ -44,7 +44,7 @@ https://www.udemy.com/course/android-bug-bounty-hunting-hunt-like-a-rat/learn/le
 \
 TCM Security:
 \
-https://academy.tcm-sec.com/courses/enrolled/1152300](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
+https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course
 \
 https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
 \

@@ -11,6 +11,7 @@ Microsoft Azure Security Technologies - AZ-500 - https://learn.microsoft.com/en-
 Udemy:
 <br/>
 https://www.udemy.com/course/xss-survival-guide/
+https://www.udemy.com/share/104K9A3@pq_4seVf03M52uR4Xe5h1wLhQOZqb3edjbD6HGdnCMrIkjIDrEFWmnmpGw9Cdv2TwA==/
 
 Remaining courses:
 <br/>
